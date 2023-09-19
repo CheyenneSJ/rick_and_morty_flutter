@@ -1,6 +1,8 @@
 # rick_and_morty_flutter
 
 App using https://rickandmortyapi.com/documentation
+
+
 Projeto pessoal.
 
 ## Getting Started
